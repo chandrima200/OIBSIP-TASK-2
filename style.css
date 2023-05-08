@@ -1,0 +1,149 @@
+.img_deg{
+    float: right;
+    width: 30%;
+    height: 600px;
+    padding-right: 30px;
+    margin: 5px;
+    padding-left: 20px;
+
+}
+body{
+    background-color: rgb(218, 203, 203);
+    width: 1450px;
+    margin: 20px;
+}
+h1{
+    padding: 2px 30px;
+    text-align: center;
+    font-size:55px;
+    font-family: 'Poppins';
+    margin-top: 3px;
+    margin-bottom: 0px;
+    cursor:pointer;
+}
+h1:hover{
+    background-color: rgb(2, 26, 43);
+    color:rgb(78, 98, 111);
+    transition: 3s ease-in;
+}
+.quote{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+#intro{
+    display:flex;
+    width:100%;
+    height:600px;
+}
+#left{
+    height:500px;
+    width:70%;
+    padding: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+#left h2{
+    font-family: 'Poppins';
+    font-size: 60px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+#left div{
+    font-family: 'Poppins';
+    font-size: 45px;
+    font-weight: bold;
+}
+#left p{
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+/*#mid1 , #mid2, #mid3, #mid4 , #mid5{
+    width: 30%;
+    padding: 25%;
+}
+#mid1 h2, #mid2 h2,#mid3 h2,#mid4 h2,#mid5 h2{
+    font-family: 'Poppins';
+    font-size: 100px;
+    margin-top: 5%;
+}
+#mid1 p, #mid2 p,#mid3 p,#mid4 p,#mid5 {
+    font-family: 'Poppins';
+    font-size: medium;
+    margin-top: 5%;
+}*/
+#body1 { 
+    padding: 20px;
+    margin: 5px;
+}
+#mid1 h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    color: rgb(92, 66, 66);
+}
+#mid1 p{
+    font-family: 'Poppins';
+    font-size: 30px;
+    color: black;
+}
+#body2 { 
+    padding: 20px;
+    margin: 5px;
+}
+#mid2 h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    color: rgb(92, 66, 66);
+}
+#mid2 p{
+    font-family: 'Poppins';
+    font-size: 30px;
+    color: black;
+}
+#body3 { 
+    padding: 20px;
+    margin: 5px;
+}
+#mid3 h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    color: rgb(92, 66, 66);
+}
+#mid3 p{
+    font-family: 'Poppins';
+    font-size: 30px;
+    color: black;
+}
+#body4 { 
+    padding: 20px;
+    margin: 5px;
+}
+#mid4 h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    color: rgb(92, 66, 66);
+}
+#mid4 p{
+    font-family: 'Poppins';
+    font-size: 30px;
+    color: black;
+}
+#body5 { 
+    padding: 20px;
+    margin: 5px;
+}
+#mid5 h2{
+    font-family: 'Poppins';
+    font-size: 40px;
+    color: rgb(92, 66, 66);
+}
+#mid5 p{
+    font-family: 'Poppins';
+    font-size: 30px;
+    color: black;
+}
